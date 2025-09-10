@@ -1,2 +1,1 @@
-Practicing Git Changes
-This is from new-feature branch
+line from new-feature branch
